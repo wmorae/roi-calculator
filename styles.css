@@ -1,0 +1,22 @@
+.azul-quality{
+    color: rgb(17,23,40);
+}
+.vermelho-quality{
+    color: rgb(237,77,74);
+}
+.azul{
+    color: #1a1d2b;
+}
+.vermelho{
+    color: #cb4e4b;
+}
+body, body  *{
+    background-color:#1a1d2b ;
+    color: #cb4e4b;
+}
+input{
+    border: 0cm;    
+}
+input:active{
+    border: 0cm;
+}
